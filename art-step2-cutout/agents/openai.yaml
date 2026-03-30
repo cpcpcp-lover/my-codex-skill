@@ -1,0 +1,7 @@
+interface:
+  display_name: "Art Step2 Cutout"
+  short_description: "Cut out the main subject cleanly."
+  default_prompt: "Use $art-step2-cutout to create a white-background subject image and transparent PNG from the A-column image."
+
+policy:
+  allow_implicit_invocation: true
