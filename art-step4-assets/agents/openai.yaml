@@ -1,0 +1,7 @@
+interface:
+  display_name: "Art Step4 Assets"
+  short_description: "Generate three matching transparent assets."
+  default_prompt: "Use $art-step4-assets to create three transparent accessory assets from the hero image style and Blueprint material elements."
+
+policy:
+  allow_implicit_invocation: true
