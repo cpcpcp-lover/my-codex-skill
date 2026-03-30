@@ -1,0 +1,7 @@
+interface:
+  display_name: "Art Step1 Analyst"
+  short_description: "Analyze the main image into a blueprint."
+  default_prompt: "Use $art-step1-analyst to convert the A-column image into a structured Blueprint JSON."
+
+policy:
+  allow_implicit_invocation: true
