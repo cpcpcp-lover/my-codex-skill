@@ -1,0 +1,7 @@
+# Ignore local secrets and runtime outputs
+.env
+.env.*
+exports/
+output/
+*.pyc
+__pycache__/
