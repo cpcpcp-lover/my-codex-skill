@@ -1,0 +1,7 @@
+interface:
+  display_name: "Art Step3 Fusion"
+  short_description: "Fuse materials into one 4K hero image."
+  default_prompt: "Use $art-step3-fusion to create a 4K fusion artwork from the Blueprint, optional subject cutout, and B-F materials."
+
+policy:
+  allow_implicit_invocation: true
