@@ -1,0 +1,7 @@
+interface:
+  display_name: "Art Step5 Typography"
+  short_description: "Create transparent artistic typography."
+  default_prompt: "Use $art-step5-typography to generate transparent artistic text from the hero image style and G-column copy."
+
+policy:
+  allow_implicit_invocation: true
