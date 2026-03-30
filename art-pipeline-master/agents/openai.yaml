@@ -1,0 +1,7 @@
+interface:
+  display_name: "Art Pipeline Master"
+  short_description: "Run the full Feishu art pipeline safely."
+  default_prompt: "Use $art-pipeline-master to orchestrate a Feishu OpenClaw art task from sheet intake through packaging."
+
+policy:
+  allow_implicit_invocation: true
